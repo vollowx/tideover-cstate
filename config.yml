@@ -43,7 +43,7 @@
 
 # What is your status page called?
 # Shows up in the browser bar and meta tags
-title: Eggsample Status
+title: tideover.cc Status
 
 # Should posts, which have a publish date
 # from the future, be built? Useful for
@@ -97,7 +97,7 @@ defaultContentLanguage: en
 #
 # Broken example:
 # baseUrl: /
-baseURL: https://example.com
+baseURL: https://status.tideover.cc
 
 # For features like Last modified, you
 # need to use a Git repository. If you
@@ -165,7 +165,11 @@ params:
     - name: Website
       description: The web frontend for the application.
       category: Uncategorized
-      link: https://example.com/
+      link: https://tideover.cc/
+    - name: Vaultwarden
+      description: The web frontend for Vaultwarden.
+      category: Uncategorized
+      link: https://vault.tideover.cc/
     - name: API
       description: The guts of the application.
       category: Uncategorized
