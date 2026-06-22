@@ -80,6 +80,9 @@ params:
     - name: tideover.cc
       category: Uncategorized
       link: https://tideover.cc/
+    - name: files.tideover.cc
+      category: Uncategorized
+      link: https://files.tideover.cc/
     - name: vault.tideover.cc
       category: Uncategorized
       link: https://vault.tideover.cc/
