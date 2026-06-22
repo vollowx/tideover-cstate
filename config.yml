@@ -58,24 +58,30 @@ enableGitInfo: true
 params:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
-    - name: Japan
-      description: The main server in Japan.
-    - name: Netlify
-      description: Serverless contents served by Netlify.
-      closed: true
-    - name: Cloudflare Pages
-      description: Serverless contents served by Cloudflare.
-      closed: true
+    # - name: Japan
+    #   description: The main server in Japan.
+    # - name: Netlify
+    #   description: Serverless contents served by Netlify.
+    #   closed: true
+    # - name: Cloudflare Pages
+    #   description: Serverless contents served by Cloudflare.
+    #   closed: true
     - name: Uncategorized
       untitled: true
 
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
+    # - name: tideover.cc
+    #   category: Japan
+    #   link: https://tideover.cc/
+    # - name: vault.tideover.cc
+    #   category: Japan
+    #   link: https://vault.tideover.cc/
     - name: tideover.cc
-      category: Japan
+      category: Uncategorized
       link: https://tideover.cc/
     - name: vault.tideover.cc
-      category: Japan
+      category: Uncategorized
       link: https://vault.tideover.cc/
 
   # What date format to use?
